@@ -3,14 +3,14 @@
 This project utilizes React and AJAX.
 
 ### How to open the page
-#### From the Terminal
+#### First, run the following commands from your terminal
 ```
 	> git clone https://github.com/noahschutte/React_YouTube_Search.git
 	> cd React_YouTube_Search
 	> npm install
 	> npm start
 ```
-#### In your Browser
+#### Next, enter the following in your browser
 ```
-	> localhost:8080
+	localhost:8080
 ```
