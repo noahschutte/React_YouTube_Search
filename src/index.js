@@ -16,7 +16,7 @@ class App extends Component {
       selectedVideo: null
     };
 
-    this.videoSearch('surfboards');
+    this.videoSearch('Trump Face Looped for 10 Hours #TrumpFace');
   }
 
   videoSearch(term) {
